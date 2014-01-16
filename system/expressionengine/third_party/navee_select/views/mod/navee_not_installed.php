@@ -1,0 +1,1 @@
+<p>You must install <a href="http://fromtheoutfit.com/navee">NavEE</a> in order to use this fieldtype.</p>
