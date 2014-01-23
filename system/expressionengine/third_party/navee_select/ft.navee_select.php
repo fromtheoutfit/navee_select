@@ -81,6 +81,7 @@ class Navee_select_ft extends EE_Fieldtype
         $vars     = array(
             'field_name' => $this->field_name,
             'selected' => $data,
+            'navs' => array('' => '---'),
         );
         $hidden   = array();
 
